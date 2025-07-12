@@ -1,0 +1,1 @@
+step 6 edit master.txt file on private branch
